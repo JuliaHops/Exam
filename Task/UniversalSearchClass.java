@@ -1,4 +1,5 @@
-import java.util.*;
+package Task;
+
 import java.lang.*;
 
 public class UniversalSearchClass<T> {

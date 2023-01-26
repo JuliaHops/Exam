@@ -1,3 +1,5 @@
+package Task;
+
 public class ArrayListOnArray<T> {
     private final int INIT_SIZE = 16;
     private final int CUT_RATE = 4;

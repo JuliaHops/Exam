@@ -1,6 +1,4 @@
-package UniversalSort;
-
-import UniversalSort.ArraySortAdapter;
+package Task;
 
 public class IntArraySortAdapter implements ArraySortAdapter {
     public int compareElements(Object array, int pos1, int pos2) {

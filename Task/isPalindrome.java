@@ -1,3 +1,5 @@
+package Task;
+
 public class isPalindrome {
     public static boolean isPalindrome(int integer) {
         int palindrome = integer;

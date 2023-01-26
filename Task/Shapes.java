@@ -1,5 +1,6 @@
+package Task;
+
 import java.lang.*;
-import java.util.*;
 
 public class Shapes {
     public enum FigureType {SQUARE, CIRCLE, RECTANGLE}

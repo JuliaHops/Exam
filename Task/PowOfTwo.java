@@ -1,3 +1,5 @@
+package Task;
+
 public class PowOfTwo {
     public static String powOfTwo(int n){
         if (n == 0) return "NO";

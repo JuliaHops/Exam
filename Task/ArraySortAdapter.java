@@ -1,4 +1,4 @@
-package UniversalSort;
+package Task;
 
 public interface ArraySortAdapter {
     public abstract int compareElements(Object array, int pos1, int pos2);

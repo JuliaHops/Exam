@@ -1,3 +1,5 @@
+package Task;
+
 import java.util.*;
 import java.lang.*;
 import java.util.stream.Collectors;
